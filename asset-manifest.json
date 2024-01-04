@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/lucky-number-app/static/css/main.3f2fbf93.css",
+    "main.js": "/lucky-number-app/static/js/main.ca97689f.js",
+    "static/media/logo_new.png": "/lucky-number-app/static/media/logo_new.00fe6e9f8577c093c4d3.png",
+    "index.html": "/lucky-number-app/index.html",
+    "main.3f2fbf93.css.map": "/lucky-number-app/static/css/main.3f2fbf93.css.map",
+    "main.ca97689f.js.map": "/lucky-number-app/static/js/main.ca97689f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f2fbf93.css",
+    "static/js/main.ca97689f.js"
+  ]
+}
